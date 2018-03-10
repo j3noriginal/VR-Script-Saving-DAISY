@@ -1,2 +1,6 @@
 # remote_theme: fresh
 theme: jekyll-theme-minimal
+
+# navigation
+header-pages:
+- VR-screenplay.html
