@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Home
-permalink: /README
 ---
 
 ## Welcome to Untitled VR Script
