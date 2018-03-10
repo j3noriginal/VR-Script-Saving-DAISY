@@ -1,3 +1,9 @@
+---
+layout: page
+title: Home
+permalink: /Home/
+---
+
 ## Welcome to Untitled VR Script
 
 This project is a working progress VR script as part of a Masters Degree program at [AFDA](https://www.afda.co.za/) I set out to understand how storytelling would work in the VR medium. In my thesis I explore the topic of emergent storytelling. This is my attempt to write a VR script to outline such a story.
