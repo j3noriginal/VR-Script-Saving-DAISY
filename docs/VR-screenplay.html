@@ -8,6 +8,7 @@ permalink: /VR-screenplay
 
 <script type="text/javascript" src="fountain.js"></script>
 <script type="text/javascript">
-  var file = new FileReader();
+  var screenplay = new File("BigFish.fountain");
+  var file = new FileReader(screenplay);
   var output = fountain.parse(file);
 </script>
