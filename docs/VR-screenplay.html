@@ -20,12 +20,12 @@ permalink: /VR-screenplay
    //console.log(file);
  $(document).ready(function(){
   fetch('BigFish.fountain')
-  .then(function(response) {
-   fountain.parse(response.text(),function(output){
+  .then(response => response.text())
+  .then(fountain.parse(text,function(output){
    $("#test").html(output.html.title_page);
    console.log(output.html.title_page);
    });
-  });
+  );
  
 });
   
