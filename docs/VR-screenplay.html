@@ -11,9 +11,8 @@ permalink: /VR-screenplay
  // var screenplay = new File([""], "BigFish.fountain");
   //var file = new FileReader(screenplay);
   //test file upload
-  fetch('BigFish.fountain')
-  .then(response => response.text())
-  .then(text => fountain.parse(text));
-  
+  var file = fetch('BigFish.fountain')
+  .then(response => response.text());
+   console.log(file);
  // var output = fountain.parse(file);
 </script>
