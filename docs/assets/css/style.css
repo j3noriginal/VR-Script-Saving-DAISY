@@ -100,6 +100,36 @@ background: #fff;
 div.action p {
 margin-top: 1em;
 }
+
+/*VR Styles*/
+
+div.action-left p {
+color: green;
+margin-top: 1em;
+}
+
+div.action-right p {
+color: red;
+margin-top: 1em;
+}
+
+div.action-behind p {
+color: blue;
+margin-top: 1em;
+}
+
+div.action-up p {
+color: orange;
+margin-top: 1em;
+}
+
+div.action-down p {
+color: purple;
+margin-top: 1em;
+}
+
+/*VR Styles end*/
+
 .centered {
 text-align: center;
 }
