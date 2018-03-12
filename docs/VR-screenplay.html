@@ -21,7 +21,7 @@ permalink: /VR-screenplay
  $(document).ready(function(){
   fetch('BigFish.fountain')
   .then(response => response.text())
-  .then(fountain.parse(text,function(output){
+  .then(text => fountain.parse(text,function(output){
    $("#test").html(output.html.title_page);
    console.log(output.html.title_page);
    })
