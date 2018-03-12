@@ -5,7 +5,8 @@ permalink: /VR-screenplay
 ---
 
 <h1> The Screenplay </h1>
-
+<link href="assets/css/normalize.min.css" rel="stylesheet">
+<link href="assets/css/fountain-js.css" rel="stylesheet">
 <script type="text/javascript" src="fountain.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <script type="text/javascript">
@@ -22,14 +23,14 @@ permalink: /VR-screenplay
   fetch('BigFish.fountain')
   .then(response => response.text())
   .then(text => fountain.parse(text,function(output){
-   $("#test").html(output.html.title_page);
+   $("#script").html(output.html.title_page);
    console.log(output.html.title_page);
    })
   );
- 
+
 });
-  
-  
+
+
 
 </script>
-<div id='test'></div>
+<div id='script'></div>
