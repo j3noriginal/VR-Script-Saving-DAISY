@@ -26,20 +26,15 @@
         </div>
       </header>
 
-      <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-      <script type="text/javascript">
-        if (typeof jQuery == 'undefined') {
-          document.write(unescape("%3Cscript src='assets/js/jquery-1.7.1.min.js' type='text/javascript'%3E%3C/script%3E"));
-        }
-      </script>
-      <script type="text/javascript" src="assets/js/fountain.min.js"></script>
-      <script type="text/javascript" src="assets/js/fountain-reader.js"></script>
-      <script type="text/javascript">
-       var file = "Title: Big Fish";
-       $(document).ready(function(){
-        fetch('BigFish.fountain')
-        .then(response => response.text())
-        .then(text => fountain.parse(text,function(output){
+      <link href="assets/css/fountain-js.css" rel="stylesheet">
+        <script type="text/javascript" src="fountain.js"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+        <script type="text/javascript">
+          var file = "Title: Big Fish";
+          $(document).ready(function(){
+            fetch('BigFish.fountain')
+            .then(response => response.text())
+            .then(text => fountain.parse(text,function(output){
          $("#script").html(output.html.title_page);
          console.log(output.html.title_page);
          })
