@@ -18,7 +18,7 @@ permalink: /VR-screenplay
      var output = fountain.parse(response.text());
   });*/
    //console.log(file);
- document.onload(function(){
+ document.ready(function(){
  fountain.parse(file,function(output){
    $("#test").html(output.html.title_page);
    console.log(output.html.title_page);
