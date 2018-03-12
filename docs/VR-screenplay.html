@@ -19,10 +19,14 @@ permalink: /VR-screenplay
   });*/
    //console.log(file);
  $(document).ready(function(){
- fountain.parse(file,function(output){
+  fetch('BigFish.fountain')
+  .then(function(response) {
+   fountain.parse(response.text(),function(output){
    $("#test").html(output.html.title_page);
    console.log(output.html.title_page);
+   });
   });
+ 
 });
   
   
