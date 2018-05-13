@@ -32,7 +32,7 @@ The Contextual Boundaries refer to what Robert McKee terms the "controlling idea
 #### 3. Interaction Boundaries
 The Interaction Boundaries refer to the constraints that the participant has in interacting with the world. This may largely be affected by the technology and computer system constraints. However they have to be considered carefully and be narratively justifiable.
 
-[View the **Saving DAISY** World Model](../blob/master/World-Model.md)
+[View the **Saving DAISY** World Model](World-Model.md)
 
 ### Character Model for DAISY
 The narrative progression is driven by interaction with the world. Through these interactions the narrative possibilities will start to emerge. Personal interaction with other characters is most likely Virtual Reality Narrative's most likely progressive force. Each character in the narrative is defined by his/her own character model. The character model will paint a picture of the person the character represents and the role he/she plays in the narrative world. The characters can be divided into two categories. The categories are determined by the impact a participant's interaction with a character has on the narrative world.
@@ -45,7 +45,7 @@ This narrative will not contain exposition characters. The ageing mother, her cr
 #### Key Characters
 These characters are designed to oppose the participant and become obstacles in the way of achieving his/her goal. These characters come into conflict with the participant through their interactions and act in a way that will drive the narrative progression. These characters have a spectrum of responses to the interaction with the participant, and the degree of to which they act will be determined by the point at which the participant interacts with them.
 
-[View the **Saving DAISY** Character Model](../blob/master/DAISY-story-arc.md)
+[View the **Saving DAISY** Character Model](DAISY-story-arc.md)
 
 ### Narrated Scenario (or script)
 Robert McKee explains the "inciting incident" as an event that upsets the balance of the protagonist's life and entices him/her to restore the balance. This incident must get the participant asking: "How will this turn out?" When a participant enters a VR world, the vividness of the experience may be overwhelming. This is a good time to introduce the participant to the world and his/her role in it, as they will not necessarily start interacting right away.
@@ -54,7 +54,7 @@ This is where the "inciting incident" gives context to the world and sets the pa
 
 For the purpose of this project I will outline the entire narrative in a sequential script, however, in my thesis I make a case that the order in which the events unfold should be up to the participant and how he/she chooses to interact with the world. Therefore, this screenplay is only one possible narrative trajectory in how this simple scene could unfold.
 
-[View the **Saving DAISY** Narrated Scenario](../blob/master/VR-Saving-DAISY-v2.md)
+[View the **Saving DAISY** Narrated Scenario](VR-Saving-DAISY-v2.md)
 
 
 ### Licence
