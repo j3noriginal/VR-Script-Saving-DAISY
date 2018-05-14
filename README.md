@@ -1,6 +1,6 @@
 ## What is the Project?
 
-This project is a working progress VR script as part of a Masters Degree program at [AFDA](https://www.afda.co.za/) I set out to understand how storytelling would work in the VR medium. In my thesis I explore the topic of emergent storytelling where conflict is the progressive driving force of narrative. I will now apply the recommended conceptual model and create the proposed artefacts to author a virtual reality narrative.
+[A VR Screenplay](assets/downloads/VR-Saving-DAISY-v2.pdf) that forms part of a project that is a working progress VR script as a practical component to Masters Degree thesis, completed at [AFDA](https://www.afda.co.za/). The project set out to understand how storytelling would work in the VR medium. In my thesis I explore the topic of emergent storytelling where conflict is the progressive driving force of narrative. I will now apply the recommended conceptual model and create the proposed artefacts to author a virtual reality narrative.
 
 
 ### Abstract
@@ -54,7 +54,7 @@ This is where the "inciting incident" gives context to the world and sets the pa
 
 For the purpose of this project I will outline the entire narrative in a sequential script, however, in my thesis I make a case that the order in which the events unfold should be up to the participant and how he/she chooses to interact with the world. Therefore, this screenplay is only one possible narrative trajectory in how this simple scene could unfold.
 
-[View the **Saving DAISY** Narrated Scenario](VR-Saving-DAISY-v2.fountain)
+[View the **Saving DAISY** Screenplay](assets/downloads/VR-Saving-DAISY-v2.pdf)
 
 
 ### Licence
