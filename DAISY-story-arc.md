@@ -1,3 +1,5 @@
+[back](./)
+
 # DAISY Story Arc
 *A story arc is described by Robert McKee as a great sweep of change that takes life from one condition at the opening to a absolute and irreversible change at the end. This change should be meaningful in the life situation of a character.*
 
