@@ -47,7 +47,7 @@ These characters are designed to oppose the participant and become obstacles in 
 
 [View **DAISY's** Character Model](DAISY-story-arc.md)
 
-[View **Daves's** Character Model](Dave-story-arc.md)
+[View **Dave's** Character Model](Dave-story-arc.md)
 
 ### Narrated Scenario (or script)
 Robert McKee explains the "inciting incident" as an event that upsets the balance of the protagonist's life and entices him/her to restore the balance. This incident must get the participant asking: "How will this turn out?" When a participant enters a VR world, the vividness of the experience may be overwhelming. This is a good time to introduce the participant to the world and his/her role in it, as they will not necessarily start interacting right away.
