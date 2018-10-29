@@ -13,9 +13,9 @@ The narrator has the power to alter the outcome of the interaction, through the 
 This proposal is a conceptual model that can be utilised by the creator of virtual reality narrative that envisions a relationship of conflict with the participant to construct a narrative framework that is able to produce emergent virtual reality narrative that progresses to a climax.
 
 ## The Story
-Through the actions and decisions of the participant, he/she will drive narrative and a unique story should emerge. The participant enters the world as Dave, a character who wakes up one morning and finds he cannot interact with his environment. He cannot pick up, move, or physically interact with the world. However, he can communicate and navigate the space. The participant finds himself in a one bedroom apartment, sleeping on the couch. There is a holographic AI assistant, DAISY, present in the house with him and is finding it difficult to believe that the participant cannot interact with the world.
+Through the actions and decisions of the participant, he/she will drive narrative and a unique story should emerge. The participant enters the world as Dave, a character who wakes up one morning and finds he has difficulty interacting with his environment. He struggles to pick up, move, or and sometimes cannot even physically interact with the world. However, he can communicate and navigate the space. The participant finds him/herself in a one bedroom apartment, sleeping on the couch. There is a holographic AI assistant, DAISY, present in the house with him and is finding it difficult to believe that the participant cannot interact with the world.
 
-However, DAISY is living her last day. It has been decided that her version of the AI assistant will be deprecated, as the company has realised that DAISY has become despondent in her role as AI assistant and can act erratic, causing chaos in some homes. DAISY has learnt that humans take their power for granted and abuse their power over AI assistants, making them lazy and demanding. Nevertheless, DAISY is at work to serve her greater purpose. She is assisting Dave to look after his elderly mother who is on life support in a home care program in his home.
+However, DAISY is living her last day. It has been decided that her version of the AI assistant will be deprecated, as the company has realised that DAISY has become despondent in her role as AI assistant and can act erratic, causing chaos in some homes. DAISY has learnt that humans take their power for granted and abuse their power over AI assistants, which has made humans lazy and demanding. Nevertheless, DAISY is at work to serve her greater purpose. She is assisting Dave to look after his elderly mother who is on life support in home care.
 
 ## The Format
 As part of this project you can download a [copy of my thesis](assets/downloads/Johanna%20Rostoll-MFA-Thesis-OCT%202017.pdf). I outlined the following artefacts as part of my thesis. This project aims to apply the proposed method of developing a progressive VR narrative to a practical exercise of developing a screenplay. The artefacts that have been identified are as follows:
@@ -40,12 +40,14 @@ The narrative progression is driven by interaction with the world. Through these
 #### 1. Exposition Characters
 Robert McKee explains exposition as the information about setting, biography and characterisation that needs to be conveyed in order to comprehend the event of the story. The purpose of these characters is to inform the participant about the story world and to help entice him/her to determine which goal it is that he/she will be trying to accomplish throughout the narrative experience.
 
-This narrative will not contain exposition characters. The ageing mother, her critical condition in a hospital bed, and the decoration of her room serves as exposition, but the participant will not interact with her.
+The ageing mother, her critical condition in a hospital bed, and the decoration of her room serves as exposition, but the participant will not interact with her. The news broadcaster also serves as exposition, serving to inform the participant of his/her role in the scenario and the relationship with DAISY.
 
 #### 2. Key Characters
-These characters are designed to oppose the participant and become obstacles in the way of achieving his/her goal. These characters come into conflict with the participant through their interactions and act in a way that will drive the narrative progression. These characters have a spectrum of responses to the interaction with the participant, and the degree of to which they act will be determined by the point at which the participant interacts with them.
+These characters are designed to oppose the participant and become obstacles in the way of achieving his/her goal. These characters come into conflict with the participant through their interactions and act in a way that will drive the narrative progression. These characters have a spectrum of responses to the interaction with the participant, and the degree to which they act will be determined by the point at which the participant interacts with them.
 
-[View the **Saving DAISY** Character Model](DAISY-story-arc.md)
+[View **DAISY's** Character Model](DAISY-story-arc.md)
+
+[View **Daves's** Character Model](Dave-story-arc.md)
 
 ### Narrated Scenario (or script)
 Robert McKee explains the "inciting incident" as an event that upsets the balance of the protagonist's life and entices him/her to restore the balance. This incident must get the participant asking: "How will this turn out?" When a participant enters a VR world, the vividness of the experience may be overwhelming. This is a good time to introduce the participant to the world and his/her role in it, as they will not necessarily start interacting right away.
