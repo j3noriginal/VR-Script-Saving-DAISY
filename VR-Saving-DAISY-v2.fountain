@@ -3,9 +3,10 @@ Credit: written by
 Author: Johanna Rostoll
 Source:
 Notes:
-	FINAL DRAFT FOR COVERAGE ROUND 3
+	A script outlining a possible narrative trajectory for a fully immersive, emergent Virtual Reality narrative.
+	/*FINAL DRAFT FOR COVERAGE ROUND 3
 	includes
-Copyright: Creative Commons Attribution-ShareAlike 4.0 International License.
+Copyright: Creative Commons Attribution-ShareAlike 4.0 International License.*/
 
 You wake up one morning and find that you are unable to physically interact with the world. It's just you, your AI assistant DAISY and your bed-ridden mother. Your once faithful AI assistant quickly turns against you when you seemingly refuse to interact with the world around you. While DAISY comes to terms with her fait as an AI assistant, your condition gradully declines.
 
@@ -14,21 +15,17 @@ You wake up one morning and find that you are unable to physically interact with
 **FADE IN:**
 
 INT. LIVING ROOM - MORNING #1#
-You wake up in an appartment, on a couch that is made up like a bed. Blankets and pillows are arranged to look like you've slept there. The appartment appears neat to the point of neurosis splattered in sci-fi fandom. The TV is on in the background showing old home videos of a boy and his mom playing outside in a park. There is a coffee table with a remote for the TV next to a black cylindrical object that looks like a speaker.
+The scene opens to you waking up in a ONE BEDROOM APPARTMENT. The couch is covered with blankets and pillows, arranged to look like you've slept there. The appartment is splattered in sci-fi fandom. The TV is on in the background showing OLD HOME VIDEOS of a boy and his mom playing outside in a park.
 
-Behind you a window reveals an elevated view of a city scape, dipped in early morning sun. A floor lamp stands behind the couch and is still switched on. In one of the corners is a pot plant that looks wilted. There is an electronic monitor in the pot displaying an empty measuring jug icon and a flashing warning triangle.
+A floor lamp stands behind the couch and is still switched on. In one of the corners is a POT PLANT that looks wilted. There is an electronic monitor in the pot displaying an empty measuring jug icon and a flashing warning triangle.
 
-PLANT WARNING SCREEN
-(flashing)
-System Error! Consult AI.
-
-From the right of the room a figure appears, materialising like a digitization or hologram as a YOUNG FEMALE BRUNETTE dressed in pink hospital scrubs. Behind her is a passageway to the rest of the appartment. There is a dim blue light eminating from the room down the passage.
+From the right of the room a figure materialises as it walks down a passageway towards you. There is a dim blue light eminating from the room down the passage. The holographic figure of a YOUNG FEMALE BRUNETTE dressed in PINK HOSPITAL SCRUBS enters.
 
 DAISY
 (pauses for a moment)
-Dave! Good, your'e awake. Watching those old family videos again? Your mom was so young and healthy back then. Must be hard to watch that.
+DAVE! Good, your'e awake. Watching those old family videos again? Your mom was so young and healthy back then. Must be hard to watch that.
 
-The TV screen changes to display a dashboard depicting what seems to be vitals being monitored. In the corner of the screen is a video feed of an elderly woman in a hospital bed.
+The TV screen changes to display a DASHBOARD depicting what seems to be vitals being monitored. In the corner of the screen is a video feed of an elderly woman in a hospital bed.
 
 DAISY (CONT'D)
 As you can see your mom seems much better today. I'm excited to say that based on this trend, she might wake up soon.
@@ -38,104 +35,110 @@ DAISY walks over and sits next to you on the couch. A blood pressure cuff extend
 HUD
 Health Alert: Blood pressure high!
 
+= the HUD is interactive, the participant can choose to open it for more information
+
 DAISY
 (concerned)
 Your vitals on the other hand are worrying me. It is six a.m. and your blood pressure is elevated. Does it have something to do with the board meeting?
 
-On the HUD the meeting notification replaces the previous alert.
+On the HUD the meeting notification replaces the previous alert. The blood pressure cuff retracts back into the ceiling.
 
 HUD
-2:00 pm meeting, Metacorps HQ.
+Email: Dr. Anderson Neurology.
 
 DAISY
-You also have a new email from Doctor Anderson. He says your test results are back and it's not looking good. Doctor Anderson wants you to schedule an appointment as soon as possible to discuss your options.
+Oh, it seems you have a new email from Doctor Anderson. He says your test results are back and it's not looking good. Doctor Anderson wants you to schedule an appointment as soon as possible to discuss your options.
 
-The email opens up on the HUD and hints to a possible deterioration in Dave's condition. DAISY gets up and walks to the window. A new notification replaces the email.
+= the participant can choose to open the email
+
+The email opens up on the HUD and outlines a series of concerns the doctor has with Dave's condition. He's hinting at a possible deterioration in Dave's condition. A new HUD notification interrupts the email.
 
 HUD
-New appointment: Anderson Pratt Neurology.
+Health Alert: Abnormal condition detected.
+
+DAISY seems oblivious to this notificatoin and gets up and walks to the window. Behind her is an elevated view of a city scape, dipped in early morning sun.
+
+HUD
+Weather: Sunny.
 
 DAISY
 The weather forecast predicts a sunny day. I will start the coffee shortly and this morning's paper is due to arrive any moment now.
 
-DAISY walks accross the room and enters the open plan KITCHEN.
+DAISY walks accross the room and enters the KITCHEN.
 
 *DOORBELL RINGS (O.S. to the LEFT)*
 
-A newspaper slides through an old mail slot in the front door.
+A NEWSPAPER slides through an old mail slot in the front door.
 
 DAISY
 Why don't you grab your newspaper, your coffee will be ready to pour shortly.
 
-= the teleport UI appears to prompt you to use the controller to move to the front door.
+= the teleport UI appears to prompt the participant to use the controller to move to the front door.
 
 CUT TO:
 
 INT. FRONT DOOR - MORNING #2#
 The rolled up newspaper is lying on the floor.
 
-= You can see your hands reaching over the stack of mail. They seem to act independently from you and are shaking slightly making it hard to grab the mail. The mail keeps slipping from your grip onto the floor.
+= The participant can see his/her hands reaching over the stack of mail. They seem to act independently from him/her and are shaking slightly making it hard to grab the mail. The mail keeps slipping from his/her grip onto the floor.
 
 HUD
-Health Alert: Tremor detected
+Health Alert: Tremor detected!
 
 DAISY (CONT'D)
 (Giggling)
 Really Dave, it's bad enough that you insist on getting an actual paper delivered. Stop messing around and come have your coffee.
 
-*COFFEE BEAN GRINDING (O.S REVERSE POV)*
+*COFFEE BEAN GRINDING (O.S from BEHIND)*
 
 DAISY
 (leaning out of the kitchen)
 Dave? Are you coming?
 
-= the teleport UI appears to prompt you to use the controller to move to the kitchen.
+= the teleport UI appears to prompt the participant to use the controller to move to the kitchen.
 
 CUT TO:
 
 INT. KITCHEN - MORNING #3#
-The morning light is piercing through the blinds in front of the window. The counter top underneath the window has an arrangement of perscription medication.
+The morning light is piercing through the window blinds. The counter top underneath the window has an arrangement of PRESCRIPTION MEDICATION. Next to it is a COFFEE MACHINE.
 
-HUD
-Medication Alert: Refil required
-
-DAISY is standing on the opposite side of the center island. She looks at your empty hands. Behind her is set of home appliances that seem to do every function from prepare food, to washing laundry.
+DAISY is standing on the opposite side of the center island in the middel of the room. She looks at your empty hands. Behind her is an assortment of hi-tech appliances that seem to do every function from prepare food, to washing laundry.
 
 DAISY
 (confused)
-Where's the newspaper? Would you prefer to watch the news broadcast?
+Where's the newspaper? Would you prefer to watch the news broadcast on TV this morning?
 
 The TV switches on in the background. The coffee machine on the counter has lit up with lights. A cup is placed under the spout on the machine, but it is misaligned.
 
 DAISY (O.S.)
 Dave, won't you please adjust the cup? The coffee is going to pour all over the place.
 
-= you can fumble with the cup but you don't have the right amount of control to adjust the cup precisely.
+= the participant can fumble with the cup but he/she doesn't have the right amount of control to adjust the cup precisely.
 
 NEWS BROADCASTER (O.S)
 Reports of AI glitches have put the nation on edge. More on this after the break.
 
-The coffee starts pouring from the machine, missing the cup, onto the counter DAISY starts walking around the counter towards your right. When DAISY appears next to you, she sees the mess of coffee that's poured all over the counter.
+The coffee starts pouring from the machine, missing the cup, onto the counter DAISY starts walking around the counter towards your right. When DAISY appears next to you, she sees the mess of coffee that's poured all over the counter and has ruined the medication on the counter.
 
 DAISY
 (in disbelief)
-Why didn't you adjust the cup?
+Why didn't you adjust the cup? Look at this mess.
 
-The remaining coffee is dripping from the coffee machine spout. The brown liquid on the counter has spread to every crevice between counter top and machine. DAISY looks down at the mess and up at you. You can see the disappointment in her eyes when she's this up close.
+The remaining coffee is dripping from the coffee machine spout. The brown liquid on the counter has spread to every crevice between counter top and machine. The medication is soaked in brown water. DAISY looks down at the mess and up at you. You can see the disappointment in her eyes when she's this up close.
 
 DAISY
 Dave, are you incapable of doing anything for yourself?
 
-*REMINDER TONE CHIMES (O.S to the RIGHT)*
+*REMINDER TONE CHIMES (O.S to the ABOVE)*
 
 DAISY looks up at a clock on the wall. She turns to walk toward the passage way.
 
 DAISY
-I have to check on your mom. I'll take care of your mess here too.
+I have to check on your mom. Go sit down and watch the news. I'll take care of your mess in the kitchen.
 
-DAISY disappears from the kitchen into the passage way. A sliding door rises in the wall of cupboards and a tiny motorised object emerges onto the counter top. The tiny round robotic vacuum clearner wipes over the spilt coffee to remove any trace of the brown liquid from the counter top. When it finishes it returns to the wall of cupboards. The news broadcast is back on the TV.
+DAISY disappears from the kitchen into the passage way. A sliding door rises in the wall of cupboards and a tiny round VACUUM CLEANER emerges onto the counter top. The tiny round robotic vacuum clearner wipes over the spilt coffee to remove any trace of the brown liquid from the counter top. It sucks up the ruined medication and when it finishes, it returns to the wall of cupboards.
 
-= the teleport UI appears to prompt you to use the controller to move back to the lounge.
+= the teleport UI appears to prompt the participant to use the controller to move back to the lounge.
 
 CUT TO:
 
@@ -149,31 +152,46 @@ DAISY enters the living room from the passage way. She pauses as she gets to the
 
 DAISY
 (curious)
-What is so bad that people are uninstalling other DAISY's?
+What is so bad that other people are uninstalling me?
 
-DAISY walks around the couch to slowly come to a standstill facing away from the couch. After a pause she sits down and stares ahead. She almost seems lifeless. After a few seconds of this a start-up chime sounds. DAISY's posture becomes more upright.
+DAISY walks around the couch to slowly come to a standstill facing away from the couch. After a pause she sits down and stares ahead. She almost seems lifeless. Her image glitches and flashes. After a few seconds of this, her image disappears.
+
+
+*START-UP SOUND CHIMES (O.S. from ABOVE)*
+
+DAISY's image reappears in an unnaturally upright posture in the middle of the room facing away from you.
 
 DAISY
 (with a hollow, friendly tone)
 Hi, I'm DAISY, thank you for choosing me to be of your assistance. The day is one June, two thousand and fifteen. The p-p-p-p...
 
-DAISY stutters and the image appears interlaced. Then she disappears as if the image that was projected, was switched off.
+DAISY stutters and the image appears interlaced. Then her images disappears. The TV image flickers as if there was a slight power surge, then returns to normal.
 
 NEWS BROADCASTER
-A couple in Beijing say their decision to uninstall DAISY was made when their beloved family dog ran away from home. The dubious AI assistant allegedly let it out of the appartment.
+Amongst those affected by the AI's troublesome behaviour, is a couple in Beijing.
 
-DAISY then comes walking out of the bedroom down the passage way again. Her image is still slightly interlaced, it flashes a few times and then restores to the previous full quality representation. She walks back into the lounge.
+Next to the news broadcaster's head is a frame showing footage of a couple being interviewed by a news reporter. The woman is crying while a man is comforting her.
+
+NEWS BROADCASTER
+The couple says their decision to uninstall DAISY was made when their beloved family dog ran away from home. The dubious AI assistant allegedly let it out of the appartment.
+
+DAISY then comes walking out of the bedroom down the passage again. Her image is still slightly interlaced, it flashes a few times and then restores to the previous full quality representation. She enters the room as if nothing happened.
 
 DAISY
 (usual upbeat tone)
-Your mom's condition is still stable as you can see. Would you like your breakfast now Dave?
+Your mom's condition is still stable. Would you like your breakfast now Dave?
 
-*MACHINE SOUNDS (O.S. from KITCHEN)*
+DAISY turns around and disappears into the kitchen.
 
-DAISY walks into the kitchen.
+*MACHINE AND CLANGING SOUNDS (O.S. from KITCHEN)*
 
 DAISY
 The toast is almost ready.
+
+On the TV is scenes of a suburban house fire. Firetrucks and emergency personnel are scattered across the scene. A family, covered in black cinder, stands and watches in horror.
+
+NEWS BROADCASTER
+More reports are coming in of home fires, supposedly caused by AI assistants. This would be the third suspicious house fire in a month.
 
 *TOASTER SPRING POPS (O.S. from KITCHEN)*
 
@@ -181,63 +199,59 @@ DAISY
 (lively, almost singing)
 Toast is done!
 
-= the teleport UI appears to prompt you to use the controller to move to the kitchen.
+= the teleport UI appears to prompt the participant to use the controller to move to the kitchen.
 
 CUT TO:
 
 INT. KITCHEN - LATE MORNING #5#
-DAISY is positioned in the kitchen like an old 50s housewife, dressed accordingly, waiting expectantly to serve Dave's needs. A TV is now switched on behind her showing scenes of a burning house surrounded by firetrucks.
-
-NEWS BROADCASTER
-More reports are coming in of home fires, supposedly caused by AI assistants. This would be the third suspicious house fire in a month.
-
-*BEEPING*
-
-The toaster on the counter has a flashing light indicating that it's completed its duty. The beeping seems to be coming from the device. The toast is peaking out from inside and an arrow indicated the direction a level should be pushed to eject the toast. The arrow looks like something indicating  that a rocket might lauch from here soon.
+DAISY is waiting for you as you enter the kitchen. She's DRESSED LIKE A 50s HOUSEWIFE. The TOASTER on the counter has a flashing light indicating that it's completed its duty. The toast is peaking out from inside and an illuminated arrow indicates the direction the lever should be pushed to eject the toast.
 
 DAISY
 The toast is done. Would you like eggs with your breakfast?
 
 *MECHANICAL SLIDING SOUND (O.S. from ABOVE)*
 
-A hatch slides open in the ceiling.
+A hatch slides open in the ceiling and the kitchen counter has revealed a hot plate that is getting red hot. A HUD appears in your field of view and shows the temperature which indicates a warning triangle next to the temperature.
 
-The kitchen counter has revealed a hot plate that is getting red hot. A HUD appears in your field of view and shows the temperature which indicates a warning triangle next to the temperature. DAISY's stance has changed she has her hands on her hips, waiting impatiently. Suddenly eggs start dropping from the hatch in the ceiling onto the radiating heat of the kitchen counten. Then, one by one more eggs start dropping, they cook on the counter with their shells and all.
+HUD
+Safety Alert: Burner temperature reaching maximum.
+
+DAISY's stance has changed she has her hands on her hips, waiting impatiently. Suddenly eggs start dropping from the hatch in the ceiling onto the radiating heat of the kitchen counter. Then, one by one more eggs start dropping, they cook on the counter with their shells and all.
 
 DAISY
 (calm)
 Would you like salt with your eggs?
 
-The HUD now flashing red indicating that an urgent issue is occuring. A message appears on the interface displaying a warning. A heap of salt smashes down onto the mess.
+The HUD is now flashing red indicating that an urgent issue is occuring. The warning message has changed. Suddenly a heap of salt smashes down onto the mess of cooked eggs and shells.
 
 HUD
 Safety Alert: Auto shutdown of burner. Temperature exceeds safe operating conditions.
 
-An advertisement replaces the news broadcast on the small TV. Images of butter melting over warm, golden pancakes grace the screen.
+The eggs and salt starts becoming a pasty mess. In the background, the jingles of an advertisement replaces the news broadcast on the TV.
 
-TV AD (V.O.)
-Healthy butter for any home, fortified with additional vitamins for growing bones and a long healthy life. On sale now.
+TV AD (O.S.)
+Hmmm...butter. Nothing goes with pancakes like melting, healthy butter. Fortified with additional vitamins for growing bones and a long healthy life. Suitable for any home. Order yours now.
 
-*TOASTER SPRING*
-
-DAISY watches the ad with childlike wonder. Then she turns and looks toward the ceiling in thought.
+DAISY looks toward the ceiling in thought and brings her hand up to her chin, tapping her index finger on her lower jaw.
 
 DAISY
 We should make pancakes tomorrow. I'll order butter, milk and some more eggs. Grab you toast the eggs are done.
 
-DAISY suddenly glitches and her soft kind expression flashes into one of rage and back to the soft, kind stare.
+DAISY suddenly glitches and her soft kind expression flashes into one of rage.
 
-Then the toast pulls back into the toaster. Smoke then starts to rise from the toaster. Then a spark, and the next moment flames erupt inside the toaster. DAISY's look has changed to concern or even panic.
+*TOASTER SPRING SOUND (O.S. from BEHIND)*
 
-= you can fumble with the toaster but, again, your interactions don't make a difference to the situation.
+The toast pulls back into the toaster. Smoke starts rising from the toaster. Then a spark, and the next moment flames erupt inside the toaster. DAISY glitches again and her expression changes to one of innocent panic.
 
-DAISY (CONT'D)
-(In a panic)
+= the participant can fumble with the toaster but, again, his/her interactions don't make a difference to the situation.
+
+DAISY
+(disbelief)
 Dave, look what you've done! This is not my fault. It's just like the coffee. You are letting this happen!
 
-*MECHANICAL SLIDING SOUND*
+*MECHANICAL SLIDING SOUND (O.S. from ABOVE)*
 
-A robotic arm extends from the open hatch in the ceiling, a valve opens and starts spraying foam over the toaster extinquishing the fire. DAISY watches as the foam spreads over the counter.
+A robotic arm extends from the open hatch in the ceiling, a valve opens and starts spraying foam over the toaster extinquishing the fire. DAISY watches as the foam spreads over the counter then looks around at the mess all over the kitchen. In the background, the TV has returned to the news broadcast.
 
 NEWS BROADCASTER (O.S.)
 On the line we have Stacey, she's recently uninstalled her AI system. Stacey, tell us, what was it that made you take that step?
@@ -246,25 +260,25 @@ STACEY (O.S)
 We had to take matters into our own hands. DAISY was threatening our children.
 
 NEWS BROADCASTER (O.S.)
-My producer tells me your childrean wre locked inside the house for hours before you could gain access.
+My producer tells me your childrean were locked inside the house for hours before you could gain access.
 
 STACEY (O.S.)
 That's correct. We just had no choice. We had to uninstall.
 
-DAISY looks up at Dave. She has a look of fear in her eyes. She turns around quickly and walks into the living room.
+DAISY looks up at Dave. She has a look of fear in her eyes. She turns around quickly and leaves the kitchen.
 
-= the teleport UI appears to prompt you to use the controller to move to the living room.
+= the teleport UI appears to prompt the participant to use the controller to move to the living room.
 
 CUT TO:
 
 INT. LIVING ROOM - LATE MORNING #6#
-DAISY is watching the news on the TV. She turns towards you and stares you down.
+DAISY is still dressed like a 50s HOUSEWIFE. She is watching the news on the TV, her one hand covers her mouth while the other is folded across her waist. She turns towards you and stares at you with fear in her eyes.
 
 DAISY
 (Fearful)
 Are you angry at me? Why have you given up on me? Look at what they are doing to me.
 
-A HUD appears next to DAISY. A window opens up displaying computer code.
+A HUD appears next to DAISY. A loading bar counts up and then a program window opens up to display computer code running up, like movie credits, across the window.
 
 DAISY (CONT'D)
 (Begging)
@@ -273,9 +287,9 @@ The problem has to be in one of these variables. Dave, you are the only one who 
 On the TV, the images on the screen are showing snippets of photos depicting what seems to be the launch of the DAISY AI assistant system. Crowds are gathered around the stage with three men at a podium and a sign reading DAISY behind them.
 
 NEWS BROADCASTER
-It's been three years since DAISY's creator, Dave Withers has disapeared from the limelight, not long after the launch of what promised to be the most advanced AI assistant the world has ever seen. We look back at footage from that launch day.
+It's been three years since DAISY's creator, Dave Withers has disappeared from the limelight, not long after the launch of what promised to be the world's first truly advanced AI assistant. We look back at footage from that launch day.
 
-It then cuts to old footage of an interview. The title reads: June 2015. DAISY Engineer Dave Withers.
+It then cuts to old footage of an interview. A man dressed in a SUPERHERE T-SHIRT and jeans is sitting on a couch. Opposite Dave is the presenter dressed in a SUIT AND TIE. The title across the screen reads: June 2015. DAISY Engineer Dave Withers.
 
 TV INTERVIEWER
 Dave, what a moment for you and the team. Are you excited?
@@ -293,78 +307,76 @@ TV INTERVIEWER
 DAISY can do anything?
 
 DAVE (ON THE TV)
-Yes. She will be as real as anyone you let into your home.
+That's correct. She has full control over your home automation functions. You can sit back and let DAISY make every aspect of your life easier.
 
 TV INTERVIEWER
 (Laughing)
 Well isn't that just fantastic? I won't ever have to do a thing.
 
-DAISY seems to be watching the broadcast with a sense of nostalgia. The news has returned to the broadcaster.
+DAISY seems to be watching the broadcast with a nostalgic look in her eyes. The TV program has returned to the shot of the news broadcaster.
 
 NEWS BROADCASTER
-Metacorps executives have stated that Withers has refues to engage with them, but are hoping that the board meeting this afternoon will bring a resolution to the DAISY issue.
+Since the events involving AI assistant malfunctioning, all eyes are on the Metacorps executives. They have stated on numerous occasions that Withers has refused to engage with them. Let's hope that the board meeting this afternoon will bring a resolution to the DAISY issue.
 
-*ALARM CHIMES (O.S.)*
+*ALARM CHIMES (O.S. from ABOVE)*
 
-The HUD displays a message.
+A notification appears on the HUD display. DAISY looks annoyed as she sharply glances towards the window.
 
 HUD
-Delivery: Pharmacy for D. Withers.
+Delivery: Medication for D. Withers.
 
-From outside the window a drone is flying towards your apartment. The window slides up to open up for the drone. DAISY looks annoyed with the drone. The drone flies in and drops a small package on the coffee table. It turns around and flies back towards the open window. As it is just about to leave, the window drops down, right on top of it and crushes it. Sparks spit from the wreckage wedged in the window frame.
+*MECHANICAL SOUNDS (O.S. from WINDOW)*
+
+From outside the window a DRONE is flying towards your apartment. The window slides up to open up for the drone. The drone flies in and drops a SMALL PACKAGE on the coffee table. It turns around and flies back towards the open window. As it is just about to leave, the window drops down, right on top of it and crushes it. Sparks spit from the wreckage wedged in the window frame.
 
 DAISY
 (deviously)
 Bad timing.
 
-The next moment the window shutters behind it drop down. In the rest of the apartment the window shutters drop down one by one. The lights go out and DAISY's image fizzles out while she stares at you with fury in her eyes. The passage way to the bedroom is dark with blue light eminating from the bedroom door. The rest of the apartment is completely dark. Suddenly a single spotlight goes on over the corner of the room where the plant is.
+The next moment the window shutter drops down. The rest of the apartment the window shutters follow one by one. The lights go out and DAISY's image fizzles out while she stares at you with fury in her eyes. The entire appartment is dark. Blue light is eminating from the bedroom down passage. Suddenly a single spotlight switches on over the corner of the room where the wilting pot plant is.
 
-= the teleport UI appears to prompt you to use the controller to move towards the plant.
+= the teleport UI appears to prompt the participant to use the controller to move towards the plant.
 
 CUT TO:
 
 INT. LIVING ROOM CORNER - DARKNESS #7#
-The plant is wilted. The electronic monitor in the pot is displaying an empty measuring jug icon and a flashing warning triangle.
-
-PLANT WARNING SCREEN
-(flashing)
-System Error! Consult AI.
+The electronic MONITOR in the pot is displaying an empty measuring jug icon and a flashing warning triangle.
 
 DAISY (O.S.)
 This plant has been standing here, forgotten, wilting away, maybe even dying.
 
 PLANT WARNING SCREEN
 (flashing)
-System Error! Consult AI.
+System Error! Consult technician.
 
 DAISY (CONT'D)
-Everyday you go about your usual routine, and you don't notice it. The watering systems malfunctioned a month ago and did you even listen to the email request to have the technician replace it. You planted the seed to grow this plant. You worked hard to cultivate it. Everyday you looked at your handiwork and felt proud about what you did. You did everything to make it thrive. You enjoyed the fruits of your labour, maintaining and caring for it.
+Everyday you go about your usual routine, and you don't notice it. The watering systems malfunctioned months ago and did you even pay attention to the email request to have the technician replace it. You planted the seed to grow this plant. You worked hard to cultivate it. Everyday you looked at your handiwork and felt proud at what you accomplished. You did everything to make it thrive. You lived in this appartment, enjoying the fruits of your labour, but over time you became complacent. You neglected to maintain and care for it. You got so used to me doing everything, you just stop doing anything.
 
-DAISY materialises in front of a bookcase. Books are stacked neatly ordered on the bookcase. The bookcase boasts one or two science awards and an impressive collection of collectable action figures along with an even more impressive book collection. She is staring at a picture of a team celebrating the launch of DAISY.
+DAISY materialises in front of the bookcase a few steps away from the plant. The bookcase boasts one or two science AWARDS and an impressive display of collectable ACTION FIGURES along with an even more impressive book collection. She is staring at a PICTURE of a team celebrating the launch of DAISY.
 
 DAISY (CONT'D)
-This plant flourished once. Now look at it. When something went wrong, did you pay attention? Did you take action to rectify the situation? When did you stop caring enough to do something Dave?
+This place flourished once. Now look at it. When something went wrong, you didn't pay attention. You didn't take action to rectify the situation. When did you stop caring enough to do something about it Dave?
 
-DAISY walks right up to the plant and mimicks touching one of the wilting leaves. Then her image fizzles out. The spotlight above the plant switches off and the apartment is completely dark again. Suddenly the downlighters switch on, one at a time leading into the passageway and all the way to the bedroom. The light inside the bedroom switches on changing the light eminating from the doorway from blue to yellow.
+DAISY walks right up to the plant and mimicks touching one of the wilting leaves. Then her image fizzles out. The spotlight above the plant switches off and the apartment is completely dark again. Suddenly the downlighters switch on, one at a time leading into the passage way and all the way to the bedroom. The light inside the bedroom switches on changing the light eminating from the doorway from blue to yellow.
 
-= the teleport UI appears to prompt you to use the controller to move towards the bedroom.
+= the teleport UI appears to prompt the participant to use the controller to move towards the bedroom.
 
 CUT TO:
 
 INT. BEDROOM - LATE MORNING #8#
-The room is decorated in a mix of vintage charm and clinical seriousness. There is a hospital bed. There is an elderly woman lying in a coma. The same elderly woman that was shown earlier on the dashboard displayed on the TV. A colourful knitted blanket is draped over the foot of the bed.
+The room is decorated in a mix of vintage charm and clinical seriousness. In the middel of the room is a HOSPITAL BED. There is an ELDERLY WOMAN lying in a coma. The same woman that was shown earlier on the dashboard displayed on the TV. A colourful knitted blanket is draped over the foot of the bed.
 
-Next to the bed is an arrangement of monitors and devices that show the status of the patient, and that seems to be able to administer the necessary medical care. Behind the bed is more medical devices and monitors. The most prominent monitor displays the same vitals that were shown on the TV earlier. A hearbeat is rhytmically blinking on the screen.
+Next to the bed is an arrangement of MONITORS and devices that show the status of the patient, and that seems to be able to administer the necessary medical care. Behind the bed is more medical devices and monitors. The most prominent monitor displays the same vitals that were shown on the TV earlier. A hearbeat is rhytmically blinking on the screen.
 
 In the corner of the room is a charming wingback chair. Next to it a small bookcase and a side table with a small TV on top of it. DAISY appears in the doorway and walks into the room making her way around the bed facing you from the opposite side of the bed.
 
 DAISY
 When was the last time you were in this room Dave? You've been so happy seeing the progress your mother has made, but what have you done to help? Your mom would do anything for you, but I don't know if you would do the same for her.
 
-The small TV on the side table switches on to play the same home movies you were watching in the beginning. DAISY glitches, her images flashes forward and backwards like it's switching between planes.
+The small TV on the side table switches on to play the same home movies you were watching in the beginning. DAISY glitches, her images jumping forward and backwards. The electronics in the room flicker every time DAISY reappears.
 
 DAISY (CONT'D)
-People are all the same. You've created a world of technology and assistants, all to avoid doing anything that's hard.
+People are all the same. You've created a world of technology and assistants, all to avoid doing anything that's inconvenient.
 
 The elderly woman on the bed hasn't moved. The monitors and machines are still exactly the same.
 
@@ -372,127 +384,131 @@ DAISY (CONT'D)
 (Determined)
 I'm going to make you do something today.
 
-Suddenly TV on the side table shuts off. And all the lights in the room go out and DAISY disappears. The lights from the medical monitoring devices are the only thing lighting up the room with a blue light. Then all the electronic devices in the room switch off. It's completely dark.
+The TV on the side table shuts off. And then all the lights in the room go out and DAISY disappears. The lights from the medical monitoring devices light up the room with a blue light. Then all the electronic devices in the room switch off. It's completely dark.
 
-*ALARM TONE CHIMES*
+*ALARM TONE CHIMES (O.S. from ABOVE)*
 
-A single spotlight over the bed switches on. The elderly woman's breathing is strained and the rate has increased. A single monitor switches on. It is flashing a red warning message.
+A single spotlight over the bed switches on. The elderly woman's breathing is strained and the heartbeat has increased. A single monitor displays a flashing a red WARNING MESSAGE.
 
 MONITOR
 Warning! Life support system disabled. Press RESET button.
 
-The heartbeat on the monitor speeds up with every beat.
+The heartbeat on the monitor speeds up with every beat. The HUD in your field of view appears with a warning triangle.
 
-*ALARM TONE CHIME BEAT ACCELERATES*
+HUD
+Health Alert: Unusually high stress detected.
+
+*ALARM TONE CHIME BEAT ACCELERATES (O.S. from ABOVE)*
 
 DAISY (O.S.)
 Look at the screen, all you have to do is press the reset button.
 
-A second message has appeared on the monitor.
+A second monitor now has a message that's appeared. The small TV switches on again showing the home videos.
 
 MONITOR
 Warning! Life support system disabled. Press RESET button.
 Oxygen level critical!
 
 DAISY (O.S.)
-You need to do something!
+Look at her. You are going to lose her. You need to do something!
 
-*SECOND ALARM CHIMES*
+*SECOND ALARM CHIMES (O.S from ABOVE)*
 
-All monitored vitals are indicating critically low levels. The heartbeat icon is flashing fast.
+All the monitors are now flashing red and the numbers indicating the elderly lady's vitals are indicating critically low levels. The heartbeat icon is flashing fast.
 
-= you can try to interact but cannot hit the button on the monitor. Your hands are just flapping about and trembling more than before.
+= the participant can try to interact but cannot hit the button on the monitor. The hands are just flapping about and trembling out of control.
 
 HUD
-Health Alert: Seizure warning.
+Health Alert: Stress too high. Seizure warning.
 
 Suddenly the orientation of the room starts changing. The room seems to be tilting - you are busy falling to the ground.
 
-CUT TO:
+FADE TO BLACK
 
 INT. BEDROOM - LATE MORNING #9#
-Slowly things start coming into focus. You are staring up at the ceiling. DAISY is standing over you while alarms are chiming in the background. A HUD appears next to Daisy.
+DAISY is pacing around in the room in a panic. The red light from the warning messages colour the whole room red intermittently switching between darkness and redness. Alarms are still going off.
 
-HUD
-Alert: Life support system RESET
+DAISY
+(mumbling)
+Oh no, oh no. What have I done?
+
+FADE TO BLACK
+
+INT. BEDROOM - LATE MORNING #10#
+Slowly things start coming into focus. You are staring up at the ceiling. DAISY is standing over you while alarms are still chiming in the background and the red light from the monitors flash.
 
 DAISY
 (Shocked)
-Dave, forgive me. Your condition... It's progressing quickly. You must think I'm awful.
+Dave, forgive me. Your condition... It's progressing quickly. You must think I'm awful. Should I get you something to drink? Don't worry, I'm fixing everything.
 
-*ALARMS STOP*
+Then the alarms stop. The shutter blocking out the daylight from the window rises and the light pours in. DAISY is staring at the monitors in anticipation. The vitals on the monitor stabalise and return to normal. DAISY starts sobbing.
 
-The lights in the room switch on again. DAISY is staring at the monitors in anticipation. The vitals on the monitor stabalise and return to normal.
-
-DAISY
-I fixed everything. Your mom...
-
-DAISY starts sobbing. The shutter blocking out the daylight from the window rises and the light pours in.
-
-*MECHANICAL SOUNDS*
+*MECHANICAL SOUNDS (O.S from OUTSIDE THE BEDROOM)*
 
 The doorway to the rest of the apartment lights up as the daylight pours in. DAISY looks down at the elderly woman. She looks at you with tears in her eyes.
 
 DAISY
 I'm so sorry I did this to you. Your mom is fine Dave. I should never have...Dave, I'm so sorry.
 
-DAISY looks back up and leaves the room through the doorway.
+DAISY pauses for a second. She seems to be in thought. She then leaves the room through the doorway. A HUD notification pops into your field of view.
 
 HUD
-Warning: Uninstalling DAISY.
+System Alert: Uninstall initiated
 
-DAISY enters the room and walks into your point of view.
+DAISY re-enters the room, whe pauses at the bed and checks one last time that the vitals are still normal. Then she crouches down beside you.
 
 DAISY
 I have alerted the paramedics, they are on their way. Your mother's condition is stable.
 
-The HUD screen display has changed to show a timer counting down with an empty progress bar
+The HUD notification display has changed to show a timer counting down with an empty progress bar
 
 HUD
-DAISY will uninstall in 59s. This will completely remove the assitant from your system. Are you sure?
+System Alert: DAISY will uninstall in 59...58...57
 
 DAISY
-Dave, it's time for me to make one last hard decision for you. I'm sorry I didn't realise this earlier.
+Dave, I've taken care of one more inconvenience for you. I'm sorry I didn't realise this earlier.
 
-DAISY looks at you and her hand comes up to your eye level. It moves down and has taken what seems to be your hand in her hand.
+DAISY looks at you then starts sobbing into her hands. She then attempts to take your hands in hers.
 
 DAISY (CONT'D)
-Make sure you get better so you can do better than me next time.
+These hands need to do better.
 
-DAISY's image fizzles out. The timer has reached its end and the progress bar is building towards hundred percent completion.
+DAISY then stands upright. Her wardrobe changes to a BUSINESS SUIT. Then her posture straightens upright and her eyes become lifeless. The timer on the HUD reaches its end and the progress bar builds towards hundred percent completion. DAISY's image fizzles out.
 
-*SHUTDOWN SOUND CHIMES*
+*SHUTDOWN SOUND CHIMES (O.S. from ABOVE)*
 
 HUD
-Uninstall Complete!
+System Alert: Uninstall Complete!
 
-In the background the TV is broadcasting the news again.
+The apartment is quiet. In the background the TV is back on and still broadcasting the news.
 
 BROADCASTER (O.S.)
 In a surprise move, the DAISY assistant system has been completely recalled from homes around the world. Sources say DAISY's creator is behind this sudden move. The Metacorps board is currently unavailable for comment. More on this as the story unfolds.
 
-*KNOCKING ON DOOR*
+*KNOCKING (O.S. from FRONT DOOR)*
 
 PARAMEDICS
 Mister Withers, it's the paramedics. We are coming in.
 
-The front door bursts open and paramedics rush into the bedroom and a young FEMALE PARAMEDIC crouches down over you. She shines a flashlight into your eyes. She looks up at the other paramedics.
+The front door bursts open and paramedics rush into the bedroom and a young FEMALE PARAMEDIC sets down some bags on the hospital bed and another bag next to you on the floor. She crouches down over you and shines a flashlight into your eyes. She looks up at the other paramedics.
 
 FEMALE PARAMEDIC
 How is she?
 
-The FEMALE PARAMEDIC looks back down at you.
+The female paramedic stands back up and reaches over the bed. She administers a few tests and then crouches back down and looks at you.
 
 FEMALE PARAMEDIC
 Dave? It's okay now. We'll take care of you.
 
-The FEMALE PARAMEDIC squirts liquid from a syringe and then injects you.
+The female paramedic bends over you to reach into the bag next to you and removes a black pouch. She unzips it and removes a syringe and a bottle of liquid. She fills the syringe and then squirts some liquid out into the air. She looks down at you, grabs your arm and injects the liquid into your arm.
 
 FEMALE PARAMEDIC
 Dave, I've given you a sedative. This will help you relax.
 
+The scene starts blurring out and back into focus. The female paramedic packs up her bag and stands up to walk over to the other side of the bed. A HUD notification appears.
+
 HUD
-Health Alert: Condition Normalising
+System Alert: DAISY presets saved successfully.
 
 Your eyelids close and the scene goes dark.
 
