@@ -56,7 +56,7 @@ This is where the "inciting incident" gives context to the world and sets the pa
 
 For the purpose of this project I will outline the entire narrative in a sequential script, however, in my thesis I make a case that the order in which the events unfold should be up to the participant and how he/she chooses to interact with the world. Therefore, this screenplay is only one possible narrative trajectory in how this simple scene could unfold.
 
-[View the **Saving DAISY** Screenplay](assets/downloads/VR-Saving-DAISY-v4.pdf)
+[View the **Saving DAISY** Screenplay](assets/downloads/VR-Saving-DAISY-Final.pdf)
 
 
 ### Licence
